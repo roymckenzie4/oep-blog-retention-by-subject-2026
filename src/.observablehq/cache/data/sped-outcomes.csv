@@ -1,0 +1,11 @@
+"period","sped_outcome","n_teachers","teachers_before","rate_pct"
+"Pre-COVID (2017-2019)","Stayed in SPED",8325,10108,82.4
+"Pre-COVID (2017-2019)","Moved to core teaching",386,10108,3.8
+"Pre-COVID (2017-2019)","Taught a non-core subject",135,10108,1.3
+"Pre-COVID (2017-2019)","Switcher",282,10108,2.8
+"Pre-COVID (2017-2019)","Exiter",980,10108,9.7
+"Post-COVID (2024-2026)","Stayed in SPED",7562,9919,76.2
+"Post-COVID (2024-2026)","Moved to core teaching",443,9919,4.5
+"Post-COVID (2024-2026)","Taught a non-core subject",163,9919,1.6
+"Post-COVID (2024-2026)","Switcher",697,9919,7
+"Post-COVID (2024-2026)","Exiter",1054,9919,10.6

@@ -1,0 +1,337 @@
+"fiscal_year","prior_subject","ms_outcome","n_teachers","teachers_before","rate_pct"
+"2015","Middle School English Language Arts","Same MS subject",1889,2627,71.9
+"2015","Middle School English Language Arts","Switched within middle school",204,2627,7.8
+"2015","Middle School English Language Arts","Moved to secondary",67,2627,2.6
+"2015","Middle School English Language Arts","Moved to elementary",96,2627,3.7
+"2015","Middle School English Language Arts","Taught a non-core subject",71,2627,2.7
+"2015","Middle School English Language Arts","Switcher",86,2627,3.3
+"2015","Middle School English Language Arts","Exiter",214,2627,8.1
+"2015","Middle School Mathematics","Same MS subject",1627,2288,71.1
+"2015","Middle School Mathematics","Switched within middle school",170,2288,7.4
+"2015","Middle School Mathematics","Moved to secondary",89,2288,3.9
+"2015","Middle School Mathematics","Moved to elementary",69,2288,3
+"2015","Middle School Mathematics","Taught a non-core subject",73,2288,3.2
+"2015","Middle School Mathematics","Switcher",73,2288,3.2
+"2015","Middle School Mathematics","Exiter",187,2288,8.2
+"2015","Middle School Science","Same MS subject",1512,2137,70.8
+"2015","Middle School Science","Switched within middle school",201,2137,9.4
+"2015","Middle School Science","Moved to secondary",63,2137,2.9
+"2015","Middle School Science","Moved to elementary",65,2137,3
+"2015","Middle School Science","Taught a non-core subject",71,2137,3.3
+"2015","Middle School Science","Switcher",50,2137,2.3
+"2015","Middle School Science","Exiter",175,2137,8.2
+"2015","Middle School Social Studies","Same MS subject",1636,2413,67.8
+"2015","Middle School Social Studies","Switched within middle school",283,2413,11.7
+"2015","Middle School Social Studies","Moved to secondary",64,2413,2.7
+"2015","Middle School Social Studies","Moved to elementary",79,2413,3.3
+"2015","Middle School Social Studies","Taught a non-core subject",96,2413,4
+"2015","Middle School Social Studies","Switcher",61,2413,2.5
+"2015","Middle School Social Studies","Exiter",194,2413,8
+"2016","Middle School English Language Arts","Same MS subject",1862,2600,71.6
+"2016","Middle School English Language Arts","Switched within middle school",156,2600,6
+"2016","Middle School English Language Arts","Moved to secondary",91,2600,3.5
+"2016","Middle School English Language Arts","Moved to elementary",130,2600,5
+"2016","Middle School English Language Arts","Taught a non-core subject",78,2600,3
+"2016","Middle School English Language Arts","Switcher",58,2600,2.2
+"2016","Middle School English Language Arts","Exiter",225,2600,8.7
+"2016","Middle School Mathematics","Same MS subject",1639,2302,71.2
+"2016","Middle School Mathematics","Switched within middle school",143,2302,6.2
+"2016","Middle School Mathematics","Moved to secondary",91,2302,4
+"2016","Middle School Mathematics","Moved to elementary",97,2302,4.2
+"2016","Middle School Mathematics","Taught a non-core subject",82,2302,3.6
+"2016","Middle School Mathematics","Switcher",52,2302,2.3
+"2016","Middle School Mathematics","Exiter",198,2302,8.6
+"2016","Middle School Science","Same MS subject",1530,2156,71
+"2016","Middle School Science","Switched within middle school",177,2156,8.2
+"2016","Middle School Science","Moved to secondary",62,2156,2.9
+"2016","Middle School Science","Moved to elementary",90,2156,4.2
+"2016","Middle School Science","Taught a non-core subject",73,2156,3.4
+"2016","Middle School Science","Switcher",39,2156,1.8
+"2016","Middle School Science","Exiter",185,2156,8.6
+"2016","Middle School Social Studies","Same MS subject",1648,2426,67.9
+"2016","Middle School Social Studies","Switched within middle school",241,2426,9.9
+"2016","Middle School Social Studies","Moved to secondary",80,2426,3.3
+"2016","Middle School Social Studies","Moved to elementary",107,2426,4.4
+"2016","Middle School Social Studies","Taught a non-core subject",90,2426,3.7
+"2016","Middle School Social Studies","Switcher",57,2426,2.3
+"2016","Middle School Social Studies","Exiter",203,2426,8.4
+"2017","Middle School English Language Arts","Same MS subject",1801,2528,71.2
+"2017","Middle School English Language Arts","Switched within middle school",180,2528,7.1
+"2017","Middle School English Language Arts","Moved to secondary",81,2528,3.2
+"2017","Middle School English Language Arts","Moved to elementary",103,2528,4.1
+"2017","Middle School English Language Arts","Taught a non-core subject",89,2528,3.5
+"2017","Middle School English Language Arts","Switcher",60,2528,2.4
+"2017","Middle School English Language Arts","Exiter",214,2528,8.5
+"2017","Middle School Mathematics","Same MS subject",1616,2251,71.8
+"2017","Middle School Mathematics","Switched within middle school",141,2251,6.3
+"2017","Middle School Mathematics","Moved to secondary",91,2251,4
+"2017","Middle School Mathematics","Moved to elementary",84,2251,3.7
+"2017","Middle School Mathematics","Taught a non-core subject",71,2251,3.2
+"2017","Middle School Mathematics","Switcher",56,2251,2.5
+"2017","Middle School Mathematics","Exiter",192,2251,8.5
+"2017","Middle School Science","Same MS subject",1498,2102,71.3
+"2017","Middle School Science","Switched within middle school",190,2102,9
+"2017","Middle School Science","Moved to secondary",66,2102,3.1
+"2017","Middle School Science","Moved to elementary",71,2102,3.4
+"2017","Middle School Science","Taught a non-core subject",74,2102,3.5
+"2017","Middle School Science","Switcher",34,2102,1.6
+"2017","Middle School Science","Exiter",169,2102,8
+"2017","Middle School Social Studies","Same MS subject",1595,2372,67.2
+"2017","Middle School Social Studies","Switched within middle school",301,2372,12.7
+"2017","Middle School Social Studies","Moved to secondary",85,2372,3.6
+"2017","Middle School Social Studies","Moved to elementary",83,2372,3.5
+"2017","Middle School Social Studies","Taught a non-core subject",82,2372,3.5
+"2017","Middle School Social Studies","Switcher",47,2372,2
+"2017","Middle School Social Studies","Exiter",179,2372,7.5
+"2018","Middle School English Language Arts","Same MS subject",1775,2453,72.4
+"2018","Middle School English Language Arts","Switched within middle school",174,2453,7.1
+"2018","Middle School English Language Arts","Moved to secondary",85,2453,3.5
+"2018","Middle School English Language Arts","Moved to elementary",72,2453,2.9
+"2018","Middle School English Language Arts","Taught a non-core subject",75,2453,3.1
+"2018","Middle School English Language Arts","Switcher",69,2453,2.8
+"2018","Middle School English Language Arts","Exiter",203,2453,8.3
+"2018","Middle School Mathematics","Same MS subject",1645,2210,74.4
+"2018","Middle School Mathematics","Switched within middle school",149,2210,6.7
+"2018","Middle School Mathematics","Moved to secondary",66,2210,3
+"2018","Middle School Mathematics","Moved to elementary",71,2210,3.2
+"2018","Middle School Mathematics","Taught a non-core subject",72,2210,3.3
+"2018","Middle School Mathematics","Switcher",51,2210,2.3
+"2018","Middle School Mathematics","Exiter",156,2210,7.1
+"2018","Middle School Science","Same MS subject",1494,2077,71.9
+"2018","Middle School Science","Switched within middle school",174,2077,8.4
+"2018","Middle School Science","Moved to secondary",71,2077,3.4
+"2018","Middle School Science","Moved to elementary",56,2077,2.7
+"2018","Middle School Science","Taught a non-core subject",80,2077,3.9
+"2018","Middle School Science","Switcher",42,2077,2
+"2018","Middle School Science","Exiter",160,2077,7.7
+"2018","Middle School Social Studies","Same MS subject",1576,2289,68.9
+"2018","Middle School Social Studies","Switched within middle school",244,2289,10.7
+"2018","Middle School Social Studies","Moved to secondary",69,2289,3
+"2018","Middle School Social Studies","Moved to elementary",62,2289,2.7
+"2018","Middle School Social Studies","Taught a non-core subject",83,2289,3.6
+"2018","Middle School Social Studies","Switcher",60,2289,2.6
+"2018","Middle School Social Studies","Exiter",195,2289,8.5
+"2019","Middle School English Language Arts","Same MS subject",1826,2467,74
+"2019","Middle School English Language Arts","Switched within middle school",132,2467,5.4
+"2019","Middle School English Language Arts","Moved to secondary",80,2467,3.2
+"2019","Middle School English Language Arts","Moved to elementary",97,2467,3.9
+"2019","Middle School English Language Arts","Taught a non-core subject",72,2467,2.9
+"2019","Middle School English Language Arts","Switcher",74,2467,3
+"2019","Middle School English Language Arts","Exiter",186,2467,7.5
+"2019","Middle School Mathematics","Same MS subject",1667,2232,74.7
+"2019","Middle School Mathematics","Switched within middle school",123,2232,5.5
+"2019","Middle School Mathematics","Moved to secondary",88,2232,3.9
+"2019","Middle School Mathematics","Moved to elementary",73,2232,3.3
+"2019","Middle School Mathematics","Taught a non-core subject",63,2232,2.8
+"2019","Middle School Mathematics","Switcher",56,2232,2.5
+"2019","Middle School Mathematics","Exiter",162,2232,7.3
+"2019","Middle School Science","Same MS subject",1491,2107,70.8
+"2019","Middle School Science","Switched within middle school",175,2107,8.3
+"2019","Middle School Science","Moved to secondary",72,2107,3.4
+"2019","Middle School Science","Moved to elementary",67,2107,3.2
+"2019","Middle School Science","Taught a non-core subject",73,2107,3.5
+"2019","Middle School Science","Switcher",59,2107,2.8
+"2019","Middle School Science","Exiter",170,2107,8.1
+"2019","Middle School Social Studies","Same MS subject",1585,2354,67.3
+"2019","Middle School Social Studies","Switched within middle school",232,2354,9.9
+"2019","Middle School Social Studies","Moved to secondary",82,2354,3.5
+"2019","Middle School Social Studies","Moved to elementary",85,2354,3.6
+"2019","Middle School Social Studies","Taught a non-core subject",115,2354,4.9
+"2019","Middle School Social Studies","Switcher",78,2354,3.3
+"2019","Middle School Social Studies","Exiter",177,2354,7.5
+"2020","Middle School English Language Arts","Same MS subject",1833,2536,72.3
+"2020","Middle School English Language Arts","Switched within middle school",171,2536,6.7
+"2020","Middle School English Language Arts","Moved to secondary",70,2536,2.8
+"2020","Middle School English Language Arts","Moved to elementary",103,2536,4.1
+"2020","Middle School English Language Arts","Taught a non-core subject",80,2536,3.2
+"2020","Middle School English Language Arts","Switcher",85,2536,3.4
+"2020","Middle School English Language Arts","Exiter",194,2536,7.6
+"2020","Middle School Mathematics","Same MS subject",1682,2254,74.6
+"2020","Middle School Mathematics","Switched within middle school",146,2254,6.5
+"2020","Middle School Mathematics","Moved to secondary",69,2254,3.1
+"2020","Middle School Mathematics","Moved to elementary",78,2254,3.5
+"2020","Middle School Mathematics","Taught a non-core subject",56,2254,2.5
+"2020","Middle School Mathematics","Switcher",65,2254,2.9
+"2020","Middle School Mathematics","Exiter",158,2254,7
+"2020","Middle School Science","Same MS subject",1523,2131,71.5
+"2020","Middle School Science","Switched within middle school",186,2131,8.7
+"2020","Middle School Science","Moved to secondary",62,2131,2.9
+"2020","Middle School Science","Moved to elementary",88,2131,4.1
+"2020","Middle School Science","Taught a non-core subject",67,2131,3.1
+"2020","Middle School Science","Switcher",46,2131,2.2
+"2020","Middle School Science","Exiter",159,2131,7.5
+"2020","Middle School Social Studies","Same MS subject",1625,2401,67.7
+"2020","Middle School Social Studies","Switched within middle school",267,2401,11.1
+"2020","Middle School Social Studies","Moved to secondary",60,2401,2.5
+"2020","Middle School Social Studies","Moved to elementary",97,2401,4
+"2020","Middle School Social Studies","Taught a non-core subject",95,2401,4
+"2020","Middle School Social Studies","Switcher",65,2401,2.7
+"2020","Middle School Social Studies","Exiter",192,2401,8
+"2021","Middle School English Language Arts","Same MS subject",1844,2517,73.3
+"2021","Middle School English Language Arts","Switched within middle school",144,2517,5.7
+"2021","Middle School English Language Arts","Moved to secondary",95,2517,3.8
+"2021","Middle School English Language Arts","Moved to elementary",110,2517,4.4
+"2021","Middle School English Language Arts","Taught a non-core subject",58,2517,2.3
+"2021","Middle School English Language Arts","Switcher",73,2517,2.9
+"2021","Middle School English Language Arts","Exiter",193,2517,7.7
+"2021","Middle School Mathematics","Same MS subject",1663,2239,74.3
+"2021","Middle School Mathematics","Switched within middle school",113,2239,5
+"2021","Middle School Mathematics","Moved to secondary",80,2239,3.6
+"2021","Middle School Mathematics","Moved to elementary",84,2239,3.8
+"2021","Middle School Mathematics","Taught a non-core subject",61,2239,2.7
+"2021","Middle School Mathematics","Switcher",56,2239,2.5
+"2021","Middle School Mathematics","Exiter",182,2239,8.1
+"2021","Middle School Science","Same MS subject",1573,2161,72.8
+"2021","Middle School Science","Switched within middle school",157,2161,7.3
+"2021","Middle School Science","Moved to secondary",64,2161,3
+"2021","Middle School Science","Moved to elementary",86,2161,4
+"2021","Middle School Science","Taught a non-core subject",66,2161,3.1
+"2021","Middle School Science","Switcher",45,2161,2.1
+"2021","Middle School Science","Exiter",170,2161,7.9
+"2021","Middle School Social Studies","Same MS subject",1708,2443,69.9
+"2021","Middle School Social Studies","Switched within middle school",223,2443,9.1
+"2021","Middle School Social Studies","Moved to secondary",76,2443,3.1
+"2021","Middle School Social Studies","Moved to elementary",97,2443,4
+"2021","Middle School Social Studies","Taught a non-core subject",70,2443,2.9
+"2021","Middle School Social Studies","Switcher",56,2443,2.3
+"2021","Middle School Social Studies","Exiter",213,2443,8.7
+"2022","Middle School English Language Arts","Same MS subject",1819,2647,68.7
+"2022","Middle School English Language Arts","Switched within middle school",178,2647,6.7
+"2022","Middle School English Language Arts","Moved to secondary",100,2647,3.8
+"2022","Middle School English Language Arts","Moved to elementary",137,2647,5.2
+"2022","Middle School English Language Arts","Taught a non-core subject",90,2647,3.4
+"2022","Middle School English Language Arts","Switcher",114,2647,4.3
+"2022","Middle School English Language Arts","Exiter",209,2647,7.9
+"2022","Middle School Mathematics","Same MS subject",1667,2372,70.3
+"2022","Middle School Mathematics","Switched within middle school",141,2372,5.9
+"2022","Middle School Mathematics","Moved to secondary",73,2372,3.1
+"2022","Middle School Mathematics","Moved to elementary",119,2372,5
+"2022","Middle School Mathematics","Taught a non-core subject",80,2372,3.4
+"2022","Middle School Mathematics","Switcher",118,2372,5
+"2022","Middle School Mathematics","Exiter",174,2372,7.3
+"2022","Middle School Science","Same MS subject",1551,2335,66.4
+"2022","Middle School Science","Switched within middle school",223,2335,9.6
+"2022","Middle School Science","Moved to secondary",95,2335,4.1
+"2022","Middle School Science","Moved to elementary",111,2335,4.8
+"2022","Middle School Science","Taught a non-core subject",87,2335,3.7
+"2022","Middle School Science","Switcher",97,2335,4.2
+"2022","Middle School Science","Exiter",171,2335,7.3
+"2022","Middle School Social Studies","Same MS subject",1710,2646,64.6
+"2022","Middle School Social Studies","Switched within middle school",288,2646,10.9
+"2022","Middle School Social Studies","Moved to secondary",95,2646,3.6
+"2022","Middle School Social Studies","Moved to elementary",118,2646,4.5
+"2022","Middle School Social Studies","Taught a non-core subject",121,2646,4.6
+"2022","Middle School Social Studies","Switcher",112,2646,4.2
+"2022","Middle School Social Studies","Exiter",202,2646,7.6
+"2023","Middle School English Language Arts","Same MS subject",1806,2684,67.3
+"2023","Middle School English Language Arts","Switched within middle school",155,2684,5.8
+"2023","Middle School English Language Arts","Moved to secondary",130,2684,4.8
+"2023","Middle School English Language Arts","Moved to elementary",135,2684,5
+"2023","Middle School English Language Arts","Taught a non-core subject",95,2684,3.5
+"2023","Middle School English Language Arts","Switcher",118,2684,4.4
+"2023","Middle School English Language Arts","Exiter",245,2684,9.1
+"2023","Middle School Mathematics","Same MS subject",1639,2362,69.4
+"2023","Middle School Mathematics","Switched within middle school",132,2362,5.6
+"2023","Middle School Mathematics","Moved to secondary",97,2362,4.1
+"2023","Middle School Mathematics","Moved to elementary",97,2362,4.1
+"2023","Middle School Mathematics","Taught a non-core subject",96,2362,4.1
+"2023","Middle School Mathematics","Switcher",88,2362,3.7
+"2023","Middle School Mathematics","Exiter",213,2362,9
+"2023","Middle School Science","Same MS subject",1483,2241,66.2
+"2023","Middle School Science","Switched within middle school",179,2241,8
+"2023","Middle School Science","Moved to secondary",91,2241,4.1
+"2023","Middle School Science","Moved to elementary",100,2241,4.5
+"2023","Middle School Science","Taught a non-core subject",92,2241,4.1
+"2023","Middle School Science","Switcher",70,2241,3.1
+"2023","Middle School Science","Exiter",226,2241,10.1
+"2023","Middle School Social Studies","Same MS subject",1657,2546,65.1
+"2023","Middle School Social Studies","Switched within middle school",247,2546,9.7
+"2023","Middle School Social Studies","Moved to secondary",96,2546,3.8
+"2023","Middle School Social Studies","Moved to elementary",122,2546,4.8
+"2023","Middle School Social Studies","Taught a non-core subject",109,2546,4.3
+"2023","Middle School Social Studies","Switcher",92,2546,3.6
+"2023","Middle School Social Studies","Exiter",223,2546,8.8
+"2024","Middle School English Language Arts","Same MS subject",1776,2661,66.7
+"2024","Middle School English Language Arts","Switched within middle school",163,2661,6.1
+"2024","Middle School English Language Arts","Moved to secondary",120,2661,4.5
+"2024","Middle School English Language Arts","Moved to elementary",129,2661,4.8
+"2024","Middle School English Language Arts","Taught a non-core subject",95,2661,3.6
+"2024","Middle School English Language Arts","Switcher",111,2661,4.2
+"2024","Middle School English Language Arts","Exiter",267,2661,10
+"2024","Middle School Mathematics","Same MS subject",1565,2308,67.8
+"2024","Middle School Mathematics","Switched within middle school",140,2308,6.1
+"2024","Middle School Mathematics","Moved to secondary",95,2308,4.1
+"2024","Middle School Mathematics","Moved to elementary",100,2308,4.3
+"2024","Middle School Mathematics","Taught a non-core subject",75,2308,3.2
+"2024","Middle School Mathematics","Switcher",104,2308,4.5
+"2024","Middle School Mathematics","Exiter",229,2308,9.9
+"2024","Middle School Science","Same MS subject",1463,2218,66
+"2024","Middle School Science","Switched within middle school",197,2218,8.9
+"2024","Middle School Science","Moved to secondary",95,2218,4.3
+"2024","Middle School Science","Moved to elementary",106,2218,4.8
+"2024","Middle School Science","Taught a non-core subject",74,2218,3.3
+"2024","Middle School Science","Switcher",72,2218,3.2
+"2024","Middle School Science","Exiter",211,2218,9.5
+"2024","Middle School Social Studies","Same MS subject",1571,2502,62.8
+"2024","Middle School Social Studies","Switched within middle school",271,2502,10.8
+"2024","Middle School Social Studies","Moved to secondary",95,2502,3.8
+"2024","Middle School Social Studies","Moved to elementary",119,2502,4.8
+"2024","Middle School Social Studies","Taught a non-core subject",102,2502,4.1
+"2024","Middle School Social Studies","Switcher",104,2502,4.2
+"2024","Middle School Social Studies","Exiter",240,2502,9.6
+"2025","Middle School English Language Arts","Same MS subject",1745,2584,67.5
+"2025","Middle School English Language Arts","Switched within middle school",136,2584,5.3
+"2025","Middle School English Language Arts","Moved to secondary",101,2584,3.9
+"2025","Middle School English Language Arts","Moved to elementary",118,2584,4.6
+"2025","Middle School English Language Arts","Taught a non-core subject",112,2584,4.3
+"2025","Middle School English Language Arts","Switcher",101,2584,3.9
+"2025","Middle School English Language Arts","Exiter",271,2584,10.5
+"2025","Middle School Mathematics","Same MS subject",1523,2236,68.1
+"2025","Middle School Mathematics","Switched within middle school",139,2236,6.2
+"2025","Middle School Mathematics","Moved to secondary",98,2236,4.4
+"2025","Middle School Mathematics","Moved to elementary",79,2236,3.5
+"2025","Middle School Mathematics","Taught a non-core subject",81,2236,3.6
+"2025","Middle School Mathematics","Switcher",83,2236,3.7
+"2025","Middle School Mathematics","Exiter",233,2236,10.4
+"2025","Middle School Science","Same MS subject",1433,2146,66.8
+"2025","Middle School Science","Switched within middle school",179,2146,8.3
+"2025","Middle School Science","Moved to secondary",82,2146,3.8
+"2025","Middle School Science","Moved to elementary",89,2146,4.1
+"2025","Middle School Science","Taught a non-core subject",80,2146,3.7
+"2025","Middle School Science","Switcher",60,2146,2.8
+"2025","Middle School Science","Exiter",223,2146,10.4
+"2025","Middle School Social Studies","Same MS subject",1512,2362,64
+"2025","Middle School Social Studies","Switched within middle school",236,2362,10
+"2025","Middle School Social Studies","Moved to secondary",88,2362,3.7
+"2025","Middle School Social Studies","Moved to elementary",97,2362,4.1
+"2025","Middle School Social Studies","Taught a non-core subject",100,2362,4.2
+"2025","Middle School Social Studies","Switcher",77,2362,3.3
+"2025","Middle School Social Studies","Exiter",252,2362,10.7
+"2026","Middle School English Language Arts","Same MS subject",1768,2535,69.7
+"2026","Middle School English Language Arts","Switched within middle school",150,2535,5.9
+"2026","Middle School English Language Arts","Moved to secondary",88,2535,3.5
+"2026","Middle School English Language Arts","Moved to elementary",111,2535,4.4
+"2026","Middle School English Language Arts","Taught a non-core subject",96,2535,3.8
+"2026","Middle School English Language Arts","Switcher",83,2535,3.3
+"2026","Middle School English Language Arts","Exiter",239,2535,9.4
+"2026","Middle School Mathematics","Same MS subject",1536,2182,70.4
+"2026","Middle School Mathematics","Switched within middle school",157,2182,7.2
+"2026","Middle School Mathematics","Moved to secondary",69,2182,3.2
+"2026","Middle School Mathematics","Moved to elementary",74,2182,3.4
+"2026","Middle School Mathematics","Taught a non-core subject",64,2182,2.9
+"2026","Middle School Mathematics","Switcher",65,2182,3
+"2026","Middle School Mathematics","Exiter",217,2182,9.9
+"2026","Middle School Science","Same MS subject",1422,2088,68.1
+"2026","Middle School Science","Switched within middle school",186,2088,8.9
+"2026","Middle School Science","Moved to secondary",77,2088,3.7
+"2026","Middle School Science","Moved to elementary",89,2088,4.3
+"2026","Middle School Science","Taught a non-core subject",61,2088,2.9
+"2026","Middle School Science","Switcher",50,2088,2.4
+"2026","Middle School Science","Exiter",203,2088,9.7
+"2026","Middle School Social Studies","Same MS subject",1476,2240,65.9
+"2026","Middle School Social Studies","Switched within middle school",229,2240,10.2
+"2026","Middle School Social Studies","Moved to secondary",78,2240,3.5
+"2026","Middle School Social Studies","Moved to elementary",104,2240,4.6
+"2026","Middle School Social Studies","Taught a non-core subject",89,2240,4
+"2026","Middle School Social Studies","Switcher",69,2240,3.1
+"2026","Middle School Social Studies","Exiter",195,2240,8.7
