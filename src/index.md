@@ -63,7 +63,7 @@ function shortSubject(s) {
 
 # Arkansas Teacher Retention by Subject: Different Subjects, Different Stories
 
-In our [previous post](https://oep.uark.edu/arkansas-teacher-retention-2025-26-a-new-normal/), we discussed how statewide teacher retention may have stabilized at a rate that is lower than pre-pandemic levels. But looking at how many teachers stay in the classroom explores only one part of the story. Another important question is which classrooms they are staying in?
+In our [previous post](https://oep.uark.edu/arkansas-teacher-retention-2025-26-a-new-normal/), we discussed how statewide teacher retention may have stabilized at a rate that is lower than pre-pandemic levels. But looking at how many teachers stay in the classroom explores only one part of the story. Another important question is which classrooms are they staying in?
 
 Some subjects and grade levels struggle more to retain teachers than others, and these struggles can persist even while statewide retention rates appear stable. The Arkansas Department of Education works with OEP to identify [subject-level teacher shortage areas](https://dese.ade.arkansas.gov/Offices/educator-effectiveness/educator-workforce-data): specific subject and grade-level combinations where a high proportion of the teaching workforce must be replaced annually. These shortages aren't driven only by retention - certification gaps and teacher supply matter too - but they're one signal of where staffing problems are concentrated. Still, identifying _which_ subjects are shortage areas doesn't tell us _why_ these subjects struggle to retain teachers.
 
@@ -145,7 +145,7 @@ display(
     title: "Within-subject retention varies sharply across Arkansas teachers",
     subtitle:
       "Subject-level retention ran from 65% to 84% over the last three years. Middle school subjects and special education sit furthest below the state average.",
-    caption: html`Dot = 2024–26 average. Arrow tail = 2017–19 average. Grey
+    caption: html`Dot = 2024–2026 average. Arrow tail = 2017–2019 average. Grey
     label = percentage-point change. ·
     ${downloadLink(
       subjectRetentionCsvUrl,
@@ -157,7 +157,7 @@ display(
 
 Different grade levels and subjects have also seen different levels of retention recovery since the COVID-19 pandemic. Across all subjects, within-subject retention is sitting roughly 3 percentage points below pre-pandemic levels. But subject-level retention in middle schools fell by over 4 percentage points, widening existing pre-pandemic gaps. Special education retention fell even further - by 6 percentage points - the largest decline of any subject. Before the pandemic, SPED had one of the highest retention rates in the state; after this drop, SPED retention rates sit slightly below the state average.
 
-For these teachers, however, exiting their subject classroom does not mean exiting the Arkansas public school workforce. While some teachers do leave Arkansas schools entirely, others move to non-classroom roles or move to teach in another subject area.
+For these teachers, however, exiting their subject classroom does not mean exiting the Arkansas public school workforce. While some teachers do leave Arkansas schools entirely, others move to non-classroom roles or move to teach in another subject area. The figure below shows the breakdown of these different paths by subjects. Stayers in the same subject continue teaching the same subject as the prior year somewhere in Arkansas public schools - whether in the same school or a different school. Stayers in a new subject remain teaching somewhere in Arkansas public schools but in a different subject than in the prior year. Of the remaining teachers, Switchers change to non-teaching roles within Arkansas public schools, while Exiters exit the Arkansas public education workforce entirely.
 
 ```js
 import { stackedBarChart } from "./components/stacked-bar-chart.js";
@@ -282,13 +282,13 @@ display(
 
 Over the past three years, true exit rates for each subject varied from 7 to 11 percent, too narrow a range to explain the large gaps in within-subject retention. The remaining attrition reflects movement to other roles within Arkansas public schools; either to instructional roles in a different subject or to non-instructional roles.
 
-For example, over the past three years, middle school teachers have changed subjects more often than teachers in any other subject. Special education teachers, on the other hand, have switched to non-teaching roles more than any other type of teacher. For both cases, we need to take a closer look at where these teachers are going to understand what low within-subject retention means in practice.
+For example, since 2024, middle school teachers have changed subjects more often than teachers in any other subject. Special education teachers, on the other hand, have switched to non-teaching roles more than any other type of teacher. For both cases, we need to take a closer look at where these teachers are going to understand what low within-subject retention means in practice.
 
 ## Middle School: Same Teachers, Different Subjects
 
 Core-subject middle school teachers have the lowest within-subject retention of any subject. Over the last three years, over one in three middle school teachers ceased teaching in the same middle school subject from one year to the next. But only about 10 percent of these teachers exit Arkansas public schools entirely, a similar rate to all other subjects. Instead, switching between subjects drives these low retention rates, accounting for around two-thirds of within-subject attrition - 20 percent of all core middle school teachers.
 
-Most of this switching is within middle schools. In 2025-26, around 8 percent of all 2024-25 middle school teachers switched to another middle school subject. By comparison, 3 percent of those same teachers moved down to teach elementary, and 4 percent moved up to teach high school.
+Most of this switching is between middle school-level subjects. In 2025-26, around 8 percent of all 2024-25 middle school teachers switched to another middle school-level subject. By comparison, 3 percent of those same teachers moved down to teach elementary, and 4 percent moved up to teach high school.
 
 ```js
 import { groupedBarChart } from "./components/grouped-bar-chart.js";
@@ -389,14 +389,14 @@ display(
 );
 ```
 
-What types of non-classroom roles are these SPED teachers moving to? Most SPED switches were to coaching and curriculum leadership roles. Nearly 2 percent of SPED teachers in the state moved into these types of roles, more than 4 times the pre-pandemic rate.
+What types of non-classroom roles are these SPED teachers moving to? Most SPED switches were to instructional coaching and curriculum leadership roles. Nearly 2 percent of SPED teachers in the state moved into these types of roles, more than 4 times the pre-pandemic rate.
 
 ```js
 // Shorter labels — the long names overflow even when rotated.
 function shortDestination(s) {
   return s
     .replace(/Non-academic role \(99 series\)/, "Non-academic (99)")
-    .replace(/Coaching & curriculum leadership/, "Coaching / curriculum")
+    .replace(/Coaching & curriculum leadership/, "Instructional coaching")
     .replace(/Interventionist \/ specialist/, "Interventionist")
     .replace(/Other teaching roles/, "Other teaching")
     .replace(/Counseling & student support/, "Counseling support");
@@ -426,9 +426,10 @@ display(
     width,
     yLabel: "% of SPED teachers",
     valueFormat: (v) => `${v.toFixed(1)}%`,
-    title: "Where SPED switchers go: curriculum and coaching roles dominate",
+    title:
+      "Where SPED switchers go: curriculum and instructional coaching roles dominate",
     subtitle:
-      "Coaching and curriculum leadership grew nearly 4× — faster than overall switching — accounting for most of the post-COVID increase in identifiable destinations. Non-academic (99 series) reflects switchers whose destination role isn't identifiable from the data.",
+      "Instructional coaching and curriculum leadership grew nearly 4× — faster than overall switching — accounting for most of the post-COVID increase in identifiable destinations. Non-academic (99 series) reflects switchers whose destination role isn't identifiable from the data.",
     caption: downloadLink(
       spedDestinationsCsvUrl,
       "OEP-Arkansas-SPED-Destinations.csv",
@@ -439,13 +440,13 @@ display(
 
 The remaining movement is driven by an increase in SPED teachers who are assigned to only specifically non-academic courses, such as study halls. Districts may use this categorization to represent a variety of on-the-ground jobs. These cases represent a data quality issue which doesn't allow us to accurately categorize those new teachers' roles within their districts.
 
-That said, the share of SPED teachers assigned to these unidentifiable jobs grew at the same pace as switching overall. These hard-to-categorize teachers made up roughly one third of all switchers both before and after the pandemic. In contrast, the movement to curriculum and coaching roles grew faster than the overall switcher rate. Before the pandemic, these roles accounted for only 20 percent of switchers. After the pandemic, that share climbed to 27 percent.
+That said, the share of SPED teachers assigned to these unidentifiable jobs grew at the same pace as switching overall. These hard-to-categorize teachers made up roughly one third of all switchers both before and after the pandemic. In contrast, the movement to curriculum and instructional coaching roles grew faster than the overall switcher rate. Before the pandemic, these roles accounted for only 20 percent of switchers. After the pandemic, that share climbed to 27 percent.
 
 ## What's next
 
-While both middle school core subjects and special education experience issues with retention, the causes behind these struggles are not the same. For middle school, the high turnover rate reflects churn between middle school subjects. For SPED, it reflects greater movement to non-classroom roles in the post-covid era. In neither case does low retention within-subject reflect above-average exit rates from the Arkansas public school workforce.
+While both middle school core subjects and special education experience issues with retention, the causes behind these struggles are not the same. For middle school, the high turnover rate reflects churn between middle school subjects. For SPED, it reflects greater movement to non-classroom roles in the post-COVID era. In neither case does low within-subject retention reflect above-average exit rates from the Arkansas public school workforce.
 
-These flows help us reframe low within-subject retention and better understand what solutions could look like. For middle school, where the net pool of middle school teachers remains more stable, teacher assignment may play a larger role than teacher recruitment. Similarly, for special education, districts can focus on the why SPED teachers are moving to non-teaching roles, rather than on keeping those teachers in the Arkansas public school workforce.
+These flows help us reframe low within-subject retention and better understand what solutions could look like. For middle school, where the net pool of middle school teachers remains more stable, teacher assignment may play a larger role than teacher recruitment. Similarly, for special education, districts can focus on why SPED teachers are moving to non-teaching roles, rather than on keeping those teachers in the Arkansas public school workforce.
 
 It is more important than ever to track these movements as the Arkansas policy context evolves. For example, the [merit pay program](https://oep.uark.edu/explaining-the-2025-arkansas-merit-teacher-incentive-fund-program/) created by the LEARNS Act specifically rewards teachers in shortage area subjects, creating another incentive for between-subject movement. Early evidence doesn't show movement away from non-shortage subjects (like middle school ELA and social studies), but further monitoring will allow us to better understand the impact of these policies.
 

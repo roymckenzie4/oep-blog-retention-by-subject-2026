@@ -128,9 +128,15 @@ export function stackedBarChart(data, categories, {
       const subjects = subjectsByGroup.get(groupsWithData[i]);
       const startPos = xDomain.length;
       xDomain.push(...subjects);
-      // Anchor header at the middle subject of this group
+      // Anchor header at the middle subject. For even counts the true center
+      // sits on the boundary between two bands, so we anchor on the lower
+      // middle band and shift right by half a band-step below.
       const midIdx = startPos + Math.floor((subjects.length - 1) / 2);
-      headerData.push({ x: xDomain[midIdx], label: groupsWithData[i] });
+      headerData.push({
+        x: xDomain[midIdx],
+        label: groupsWithData[i],
+        isEven: subjects.length % 2 === 0,
+      });
     }
     const isSpacer = (l) => typeof l === "string" && l.startsWith(SPACER_PREFIX);
 
@@ -204,17 +210,35 @@ export function stackedBarChart(data, categories, {
           }),
         ),
         // Group headers — frameAnchor "top" puts them at the top of the
-        // chart frame; x is the middle-subject band, so they horizontally
-        // center over each group.
-        Plot.text(headerData, {
-          x: "x",
-          text: "label",
-          frameAnchor: "top",
-          dy: -30,
-          fontSize: 14,
-          fontWeight: 700,
-          fill: "#222",
-        }),
+        // chart frame; x is the middle-subject band. Even-count groups need
+        // a half-step nudge so the label sits on the true visual center
+        // rather than the lower-middle band. Split into two marks because
+        // Plot.text takes dx as a constant, not a channel.
+        Plot.text(
+          headerData.filter((h) => !h.isEven),
+          {
+            x: "x",
+            text: "label",
+            frameAnchor: "top",
+            dy: -30,
+            fontSize: 14,
+            fontWeight: 700,
+            fill: "#222",
+          },
+        ),
+        Plot.text(
+          headerData.filter((h) => h.isEven),
+          {
+            x: "x",
+            text: "label",
+            frameAnchor: "top",
+            dx: (width - 70 - 20) / xDomain.length / 2,
+            dy: -30,
+            fontSize: 14,
+            fontWeight: 700,
+            fill: "#222",
+          },
+        ),
       ],
     });
 
